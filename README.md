@@ -16,3 +16,6 @@ I own [Oracle](https://github.com/BotOracle/Documentation) that I made by myself
 I'm actually working on a new version of Oracle, with crasier features and more help
 
 Don't hesitate to contact me for dev help or project :wink:
+
+## Projects
+Actually working on Draver, the new [Oracle](https://github.com/DraverIndusteies/Oracle) and [Bender Protect](https://github.com/Bender-protect/bender-bot), an open source project
