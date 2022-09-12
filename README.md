@@ -18,4 +18,4 @@ I'm actually working on a new version of Oracle, with crasier features and more 
 Don't hesitate to contact me for dev help or project :wink:
 
 ## Projects
-Actually working on Draver, the new [Oracle](https://github.com/DraverIndusteies/Oracle) and [Bender Protect](https://github.com/Bender-protect/bender-bot), an open source project
+Actually working on Draver, the new [Oracle](https://github.com/DraverIndustries/Oracle) and [Bender Protect](https://github.com/Bender-protect/bender-bot), an open source project
