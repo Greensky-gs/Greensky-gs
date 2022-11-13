@@ -8,6 +8,8 @@ French and english developper, works on
 
 In my life I like ananas, listen to music and sleep
 
+I have two goals : be an amazing programmer and speak french, english, chinese, italian and spanish
+
 ## Contact
 If you want to contact me, go on [this discord server](https://discord.gg/fHyN5w84g6).
 
