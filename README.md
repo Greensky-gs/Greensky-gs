@@ -21,4 +21,4 @@ Don't hesitate to contact me for dev help or project :wink:
 
 ## Projects
 
-I made [Amethyst JS](https://github.com/Greensky-gs/AmethystJS), a framework for javascript Discord Bots, and [Lofi Girl](https://github.com/Greensky-gs/lofi-girl), an open source lofi music discord bot, and currently working on a RPG Discord bot
+I made [Amethyst JS](https://github.com/Greensky-gs/AmethystJS), a framework for javascript Discord Bots, and [Lofi Girl](https://github.com/Greensky-gs/lofi-girl), an open source lofi music discord bot, and currently working on a RPG Discord bot ([Minish Cap RP bot](https://github.com/Greensky-gs/minish-cap-rp))
