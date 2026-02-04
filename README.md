@@ -1,11 +1,9 @@
 French and english developper, works on
-* javascript
-* node.js (specially in discord.js)
+* javascript/Typescript
 * html & css
 * python
-* C# / C++
-* typescript
-* Learning Rust
+* C
+* Learning Rust and HolyC
 
 In my life I like chess, listen to music and sleep
 
