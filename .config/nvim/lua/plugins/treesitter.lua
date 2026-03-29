@@ -2,8 +2,7 @@ return {
 	'nvim-treesitter/nvim-treesitter',
 	build = ":TSUpdate",
 	config = function()
-		local configs = require("nvim-treesitter.config")
-		configs.setup({
+		require("nvim-treesitter.config").setup({
 			highlight = {
 				enable = true,
 			},
@@ -15,7 +14,9 @@ return {
 				"cpp",
 				"typescript",
 				"python",
-				"javascript"
+				"javascript",
+				"markdown",
+				"markdown_inline",
 			},
 			auto_install = true 
 		})
