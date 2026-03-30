@@ -1,0 +1,23 @@
+#!/bin/bash
+
+DIR="/home/shanalotte/wallpapers"
+LIST="$DIR/list.twt"
+CURRENTFILE="$DIR/current"
+
+readarray -t array < "$LIST"
+length=${#array[*]}
+
+current=0
+
+if [ -f "$CURRENTFILE" ]; then
+    current=$(<"$CURRENTFILE")
+fi
+if [ "$1" == "random" ]; then
+    current=$(( $RANDOM % $length ))
+fi
+
+current=$(( ($current+1)%$length ))
+echo "$current" > "$CURRENTFILE"
+
+pkill swaybg || true
+swaybg -i "$DIR/${array[$current]}"&
